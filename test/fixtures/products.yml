@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+adsense:
+  id: 1
+  name: Adsense
+  advertiser_id: 1
+
+gmail:
+  id: 2
+  name: Gmail
+  advertiser_id: 1
+
+sprite:
+  id: 3
+  name: Sprite
+  advertiser_id: 2
+
